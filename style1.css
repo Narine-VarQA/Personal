@@ -1,0 +1,30 @@
+#form{
+	background-color: lightgreen;
+	border: 1px solid red;
+	width: 	400px;
+	height: 550px;
+	margin: 0 auto;
+	font-size: 13px;
+	color: red;
+	font-family: sans-serif;
+}	
+.form_p{
+	color: black;
+	font-size: 12px;
+}
+#education{	
+	color: red;
+}
+.field{	
+	color: black;
+	font-size: 14px;
+}
+#add{
+	color: red;
+
+}
+#sb{
+	color: orange;
+	width: 100px;
+	font-family: sans-serif;
+}
